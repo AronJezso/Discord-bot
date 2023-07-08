@@ -45,4 +45,4 @@ async def send_response(message, user_message, is_private):
 
 
 if __name__ == '__main__':
-    bot.run('MTEyNzE5ODc4OTQwNTUxNTgyNg.G9OreH.DrheukuKVg9jj4Qe5VIJVo1wtJMF88_mA_D928')
+    bot.run('')
